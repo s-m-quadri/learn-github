@@ -21,7 +21,7 @@ Spotting patterns helps programmers write better programs.
 
 2. Answers is **21**
 
-3. Answers is __
+3. Answers is **36**
 
 <!-- Answer in separate commits, each with proper title. -->
 <!-- There are some intentional mistakes, you can correct them -->
