@@ -19,7 +19,7 @@ Spotting patterns helps programmers write better programs.
 
 1. Answers is **05**
 
-2. Answers is  
+2. Answers is **10**
 
 3. Answers is 
 
