@@ -27,7 +27,7 @@ Answers are as follows:
 <br>
 - The Third light House Contains the value of **64** becouse the series is square root of Numbers.
 <br>
-- The last light house contians the value of **21** becouse it is fibonachi series in which every new number N is equal to N = N + N-1.
+- The last light house contians the value of **21** becouse it is fibonachi series in which every new number N is equal to **N = N + N-1**.
 
 
 
