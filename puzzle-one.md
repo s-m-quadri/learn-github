@@ -17,11 +17,11 @@ Spotting patterns helps programmers write better programs.
 <!-- Note: These are comments, will not show in Preview section. -->
 <!--   ... Thus, you can remove, it's just for your understanding -->
 
-1. Answers is **10**
+1. Answers is ___
 
-2. Answers is **21**
+2. Answers is ___
 
-3. Answers is **36**
+3. Answers is ___
 
 <!-- Answer in separate commits, each with proper title. -->
 <!-- There are some intentional mistakes, you can correct them -->
