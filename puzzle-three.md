@@ -21,8 +21,10 @@ Spotting differences/bugs helps programmers write better programs and solve prob
 <!-- Note: These are comments, will not show in Preview section. -->
 <!--   ... Thus, you can remove, it's just for your understanding -->
 
-I found at least one difference, i.e. 
-- **The second image does not matches the white points with the first image the first image contains white point series contains 9 after 7 but in second image it is 8 after 7.**
+I found at least one difference, i.e. ___
+___
+___
+___
 
 <!-- There are some intentional mistakes, you can correct them -->
 
