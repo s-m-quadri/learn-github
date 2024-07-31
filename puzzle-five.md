@@ -19,15 +19,13 @@ Spotting patterns is important in writing good programs.
 
 Answers are as follows:
 
-- The first light House Contains the value **36** becouse the series contains the difference of 5.
-<br>
-- The Second Light House contains the value **28** becouse the series is like
-<br> 
-0, 0+1 = 1, 1+2 = 3, 3+3 = 6, 6+4 = 10, 10+5 = 15, 15+6 = 21, 21+7 = 28
-<br>
-- The Third light House Contains the value of **64** becouse the series is square root of Numbers.
-<br>
-- The last light house contians the value of **21** becouse it is fibonachi series in which every new number N is equal to **N = N + N-1**.
+- The first light House Contains the value ___. Because ____________
+
+- The second light House Contains the value ___. Because ____________
+
+- The third light House Contains the value ___. Because ____________
+
+- The last light House Contains the value ___. Because ____________
 
 
 
