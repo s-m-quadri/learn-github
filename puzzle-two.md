@@ -21,7 +21,7 @@ Spotting differences/bugs helps programmers write better programs and solve prob
 <!-- Note: These are comments, will not show in Preview section. -->
 <!--   ... Thus, you can remove, it's just for your understanding -->
 
-I found at least one difference, i.e. Red dot in the follower.
+I found at least one difference, i.e. the second image contains the extra red dot inside the yellow portion of the Image.
 
 <!-- There are some intentional mistakes, you can correct them -->
 
