@@ -23,6 +23,7 @@ Spotting patterns helps programmers write better programs.
 
 3. Answers is **09**
 
+
 <!-- Answer in separate commits, each with proper title. -->
 <!-- There are some intentional mistakes, you can correct them -->
 
