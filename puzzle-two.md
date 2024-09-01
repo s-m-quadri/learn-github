@@ -21,7 +21,8 @@ Spotting differences/bugs helps programmers write better programs and solve prob
 <!-- Note: These are comments, will not show in Preview section. -->
 <!--   ... Thus, you can remove, it's just for your understanding -->
 
-I found at least one difference, i.e. ___
+I found at least one difference, i.e. 
+**=> The Red Spot on the Yellow circle is missing or is the difference between both images**
 ___
 ___
 ___
