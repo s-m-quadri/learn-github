@@ -17,7 +17,7 @@ Spotting patterns helps programmers write better programs.
 <!-- Note: These are comments, will not show in Preview section. -->
 <!--   ... Thus, you can remove, it's just for your understanding -->
 
-1. Answers is **5**
+1. Answers is **Five**
 
 2. Answers is **10**
 
