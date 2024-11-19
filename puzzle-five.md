@@ -19,13 +19,13 @@ Spotting patterns is important in writing good programs.
 
 Answers are as follows:
 
-- The first light House Contains the value ___. Because ____________
+- The first light House Contains the value **36**. Because **each number in increases by 5**
 
-- The second light House Contains the value ___. Because ____________
+- The second light House Contains the value **28**. Because **each number is increses in +1**
 
-- The third light House Contains the value ___. Because ____________
+- The third light House Contains the value **64**. Because **every number multiply it's own value**
 
-- The last light House Contains the value ___. Because ____________
+- The last light House Contains the value **21**. Because **number is addition of past two value's**
 
 
 
