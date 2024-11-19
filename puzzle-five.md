@@ -19,7 +19,7 @@ Spotting patterns is important in writing good programs.
 
 Answers are as follows:
 
-- The first light House Contains the value ___. Because ____________
+- The first light House Contains the value **36**. Because **each number in increases by 5**
 
 - The second light House Contains the value ___. Because ____________
 
