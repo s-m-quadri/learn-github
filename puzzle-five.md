@@ -24,6 +24,7 @@ Answers are as follows:
 - The second light House Contains the value **28**. Because **each number is increses in +1**
 
 - The third light House Contains the value **64**. Because **every number multiply it's own value**
+
 - The last light House Contains the value **21**. Because **number is addition of past two value's**
 
 
