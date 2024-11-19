@@ -21,7 +21,7 @@ Answers are as follows:
 
 - The first light House Contains the value **36**. Because **each number in increases by 5**
 
-- The second light House Contains the value ___. Because ____________
+- The second light House Contains the value **28**. Because **each number is increses in +1**
 
 - The third light House Contains the value ___. Because ____________
 
