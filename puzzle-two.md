@@ -22,10 +22,7 @@ Spotting differences/bugs helps programmers write better programs and solve prob
 <!--   ... Thus, you can remove, it's just for your understanding -->
 
 I found at least one difference, i.e. 
-**=> The Red Spot on the Yellow circle is missing or is the difference between both images**
-___
-___
-___
+**=> The Red Spot on the Yellow circle is missing and is the difference between both images.**
 
 <!-- There are some intentional mistakes, you can correct them -->
 
