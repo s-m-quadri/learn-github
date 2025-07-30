@@ -1,4 +1,4 @@
-# Caterpillar patterns
+-# Caterpillar patterns
 
 ## What
 
