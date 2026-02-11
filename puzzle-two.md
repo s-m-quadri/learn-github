@@ -1,3 +1,4 @@
+two
 # Attention to details
 
 ## What
@@ -21,8 +22,17 @@ Spotting differences/bugs helps programmers write better programs and solve prob
 <!-- Note: These are comments, will not show in Preview section. -->
 <!--   ... Thus, you can remove, it's just for your understanding -->
 
-I found at least one difference, i.e. 
-**=> The Red Spot on the Yellow circle is missing and is the difference between both images.**
+I found the 5 differences:
+
+**1. The red dot in the middle of the yellow flower circle**
+
+**2. One of the flower petals is missing**
+
+**3. The antenna on one of the bees is shorter/missing**
+
+**4. The stripe pattern on one bee is different**
+
+**5. A flower or leaf element is positioned differently**
 
 <!-- There are some intentional mistakes, you can correct them -->
 
